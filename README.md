@@ -15,8 +15,8 @@ CompSci Grad | Developer | Freelancer
 
 ## Technical Skills
 
-- **Languages & Freameworks**: Flutter, Dart, React, Node.js, JavaScript, Java, Python, HTML.
-- **Databases & Cloud**: Firebase, MongoDB, MySQL.
+- **Languages & Freameworks**: Flutter, React, JavaScript/TypeScript, Java, Python.
+- **Databases & Cloud**: Firebase, PostgreSQL, MongoDB, MySQL.
 
 ------------
 
@@ -31,11 +31,12 @@ CompSci Grad | Developer | Freelancer
 ## Current Projects
 - **Dealership Website** - Full-stack system for a trade dealership, including inventory management and security.
 - **Logistics Management** - Cross-platform app to manage deliveries, drivers, jobs, and earnings. Includes real-time distance tracking and features to streamline business processes.
+- **Plex Media Manager App** - Mobile application that allows users to search and request new content such as movies or TV shows.
 
 ------------
 
 ## Featured Repositories
-- Repositories will be made public once enough progress has been made.
+- Repositories will be made public soon.
 
 ------------
 
