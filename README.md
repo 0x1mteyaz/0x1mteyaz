@@ -1,37 +1,33 @@
 # Hello, I'm Imteyaz // 0x1mteyaz.
 
-CompSci Grad | Developer | Freelancer
+Computer Science | Independent Financial Markets Researcher
 
 ------------
 
 ## About Me
 - Based in the UK
-- Currently focused on Flutter and Mobile Apps
-- Comfortable working with JavaScript, React, Node.js, Java, Python.
-- Actively learning more about cloud services and backend systems.
-- Strong interest in learning more and collaborating with others to bring projects to life.
+- Actively learning more about systemic trading and market microstructure
+- Strong interest in execution-level behaviour.
 
 ------------
 
-## Technical Skills
+## Research & Data
 
-- **Languages & Freameworks**: Flutter, React, JavaScript/TypeScript, Java, Python.
-- **Databases & Cloud**: Firebase, PostgreSQL, MongoDB, MySQL.
+- **Languages & Frameworks**: Python, numpy, pandas, SQL. Working on C++.
+- **Infrastructure & Data**: Docker, Linux, MBO and Options Data.
 
 ------------
 
-## Currently Exploring / Learning
-- **Microsoft Azure**: Cloud environments & deployment pipelines
-- **Server-side Deployments**: Rest APIs, Express.js Middleware, Authentication
-- **CI/CD**: Automated testing and deployment workflows
-- **Security**: JWT-based Authentication
+## Currently Research:
+- **Reversion Models**: Deviations from equilibrium and conditions associated with reversions.
+- **Options and Volatility**: IV, Volatility skew, Expected move modelling.
+- **Research Infrastructure**: Data pipelines, Systems for high frequency ingestion, live model validation.
+
 
 ------------
 
 ## Current Projects
-- **Dealership Website** - Full-stack system for a trade dealership, including inventory management and security.
-- **Logistics Management** - Cross-platform app to manage deliveries, drivers, jobs, and earnings. Includes real-time distance tracking and features to streamline business processes.
-- **Plex Media Manager App** - Mobile application that allows users to search and request new content such as movies or TV shows.
+- Projects are kept private until redundancy. Generic tools will be made public when finalised.  
 
 ------------
 
@@ -39,5 +35,3 @@ CompSci Grad | Developer | Freelancer
 - Repositories will be made public soon.
 
 ------------
-
-I'm constantly learning and improving my skills and every step of this journey helps me grow both technically and professionally. Every day brings a new challenge, and no two days are ever the same. I'm glad to have piqued your interst to the end of the page and hope to hear from anyone visiting soon.
